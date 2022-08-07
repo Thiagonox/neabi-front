@@ -8,6 +8,7 @@ module.exports = {
       colors: {
         'white-custom': '#FFFAE3',
         'black-custom': '#1C1515',
+        'orange-custom': '#FFCC71'
       },
     },
   },

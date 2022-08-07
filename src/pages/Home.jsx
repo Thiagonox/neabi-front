@@ -2,7 +2,9 @@ import React from 'react'
 
 function home() {
   return (
-    <div>home</div>
+    <main className='w-11/12 bg-slate-300'>
+      
+    </main>
   )
 }
 

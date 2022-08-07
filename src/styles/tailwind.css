@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Perandory';
+    src: url('../assets/fonts/perandory/Perandory-Regular.otf') format('truetype');
+    font-family: 'Bluu';
+    src: url('../assets/fonts/bluu/bluu.otf') format('truetype');
+  }
+
+.txt-menu{
+    color: #1c1515c9;
+    font-family: 'Bluu';
+}
