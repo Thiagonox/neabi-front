@@ -10,6 +10,14 @@
   }
 
 .txt-menu{
-    color: #1c1515c9;
+    color: #1c1515b4;
     font-family: 'Bluu';
+    font-size: 1.125rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+.line-menu{
+  width: 1.6rem;
+  height: 0.25rem;
+  background-color: black;
 }
