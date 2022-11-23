@@ -2,13 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
+@layer base{
+  @font-face {
     font-family: 'Perandory';
-    src: url('../assets/fonts/perandory/Perandory-Regular.otf') format('truetype');
+    src: url('../assets/fonts/perandory/Perandory-Regular.ttf') format('truetype');
     font-family: 'Bluu';
-    src: url('../assets/fonts/bluu/bluu.otf') format('truetype');
+    src: url('../assets/fonts/bluu/bluu.ttf') format('truetype');
   }
-
+}
+  
 .txt-menu{
     color: #1c1515b4;
     font-family: 'Bluu';
@@ -17,7 +19,13 @@
     margin-right: 0.5rem;
 }
 .line-menu{
-  width: 1.6rem;
+  width: 100%;
   height: 0.25rem;
   background-color: black;
 }
+.swiper-button-next, .swiper-button-prev {
+   color: #D31A41;
+}
+.pagination > li > a {
+   background-color: #1C1C1C; color: #fff;
+  }
