@@ -18,7 +18,6 @@ function home() {
       <Slider></Slider>
       <Short></Short>
       <Artigos></Artigos>
-      <Newsletter></Newsletter>
       <Network></Network>
       <Footer></Footer>
     </main>
