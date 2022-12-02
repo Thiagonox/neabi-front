@@ -12,9 +12,9 @@ function Artigos() {
     <div id='main' className='w-full bg-orange-custom'>
       <Header></Header>
       <div className='w-11/12 m-auto pt-8'>
-        <h1 className='font-Perandory text-9xl'>Artigos</h1>
+        <h1 className='font-Perandory text-9xl text-red-custom'>Artigos</h1>
       </div>
-      <Artigo className="bg-black" ></Artigo>
+      <Artigo></Artigo>
       <Artigo></Artigo>
       <Artigo></Artigo>
       <Artigo></Artigo>
