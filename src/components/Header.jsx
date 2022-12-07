@@ -18,7 +18,7 @@ function Header() {
             <div className='line-menu'></div>
         </div>
         <Link to='/'><img className='h-8' src={logo} alt="" /></Link>
-        <nav className={`absolute rounded-xl top-16 w-52 h-4/5 left-0 bg-white-custom flex justify-center items-center m-auto sm:static z-40`}>
+        <nav className={`absolute rounded-xl top-16 w-52 h-4/5 left-0 bg-white-custom flex justify-center items-center m-auto sm:static z-0`}>
           <ul className='h-full sm:flex flex-row sm:justify-evenly items-center'>
                 <li className='txt-menu hover:text-black'><NavLink className={(navInfo) => (navInfo.isActive ? 'border-b-2 border-black text-red-custom' : '') } to='/'>HOME</NavLink></li>
                 <li className='txt-menu hover:text-black'><NavLink className={(navInfo) => (navInfo.isActive ? 'border-b-2 border-black text-red-custom' : '')} to='/Artigos'>ARTIGOS</NavLink></li>
