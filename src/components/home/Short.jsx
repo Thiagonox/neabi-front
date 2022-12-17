@@ -27,9 +27,9 @@ function Short() {
             spaceBetween: 0,
           },
         }}>
-        <SwiperSlide className='flex justify-center items-center'><iframe width="355" height="200" src="https://www.youtube.com/embed/muDcS0XwFBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></SwiperSlide>
-        <SwiperSlide className='flex justify-center items-center'><iframe width="355" height="200" src="https://www.youtube.com/embed/PF0r9DniS_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></SwiperSlide>
-        <SwiperSlide className='flex justify-center items-center'><iframe width="355" height="200" src="https://www.youtube.com/embed/tGONRo5L5Q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></SwiperSlide>
+        <SwiperSlide className='flex justify-center items-center'><iframe src="https://drive.google.com/file/d/1s9fHXdTg-3PnPMUhjT2f7wgIvVNLoKzu/preview" width="355" height="200" allow="autoplay"></iframe></SwiperSlide>
+        <SwiperSlide className='flex justify-center items-center'><iframe src="https://drive.google.com/file/d/1s9fHXdTg-3PnPMUhjT2f7wgIvVNLoKzu/preview" width="355" height="200" allow="autoplay"></iframe></SwiperSlide>
+        <SwiperSlide className='flex justify-center items-center'><iframe src="https://drive.google.com/file/d/1s9fHXdTg-3PnPMUhjT2f7wgIvVNLoKzu/preview" width="355" height="200" allow="autoplay"></iframe></SwiperSlide>
         </Swiper>
     </div>
   )
