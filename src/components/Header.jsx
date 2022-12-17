@@ -22,7 +22,6 @@ function Header() {
           <ul className='h-full sm:flex flex-row sm:justify-evenly items-center'>
                 <li className='txt-menu hover:text-black'><NavLink className={(navInfo) => (navInfo.isActive ? 'border-b-2 border-black text-red-custom' : '') } to='/'>HOME</NavLink></li>
                 <li className='txt-menu hover:text-black'><NavLink className={(navInfo) => (navInfo.isActive ? 'border-b-2 border-black text-red-custom' : '')} to='/Artigos'>ARTIGOS</NavLink></li>
-                <li className='txt-menu hover:text-black'><NavLink className={(navInfo) => (navInfo.isActive ? 'border-b-2 border-black text-red-custom' : '')} to='/Galeria'>GALERIA</NavLink></li>
           </ul>
         </nav>
         <div className='w-8 h-8 flex justify-center border-2 border-orange-custom rounded-full overflow-hidden cursor-pointer'>

@@ -6,7 +6,6 @@ import Home from "./components/pages/Home"
 import Artigos from "./components/pages/Artigos"
 import Login from './components/pages/Login'
 import Visualizar from './components/pages/Visualizar'
-import Galeria from './components/pages/Galeria'
 
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
           <Route  path="/Artigos" element={<Artigos />} />
           <Route  path="/Login" element={<Login />} />
           <Route  path="/Visualizar" element={<Visualizar />} />
-          <Route  path="/Galeria" element={<Galeria />} />
       </Routes>
     </BrowserRouter>
     </div>
