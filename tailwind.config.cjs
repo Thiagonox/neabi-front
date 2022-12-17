@@ -6,6 +6,9 @@ module.exports = {
 ],
   theme: {
     extend: {
+      backgroundImage: {
+        'instagram': "url('../src/assets/img/captura-instagram.png')",
+      },
       boxShadow: {
         'red': '8px 8px 0px 0px #D31A41',
         'black': '8px 8px 0px 0px #1C1515'
