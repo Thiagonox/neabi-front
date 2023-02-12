@@ -8,6 +8,7 @@ O Projeto do NEABI foi desenvolvido utilizando as seguintes tecnologias:
 * React
 * Tailwind CSS
 * Axios
+
 Atualmente, a aplicação não possui autenticação de usuários e não está integrada ao backend.
 
 ## Funcionalidades
