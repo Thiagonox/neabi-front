@@ -1,4 +1,4 @@
-#Projeto do NEABI - IFBA Campus Brumado
+# Projeto do NEABI - IFBA Campus Brumado
 O Projeto do Núcleo de Estudos Afro-brasileiros e Indígenas (NEABI) é uma plataforma educacional que tem como propósito fornecer um ambiente em que seja possível disponibilizar e compartilhar materiais de estudo, informações e reflexões sobre as pautas e temas relacionados à luta e à resistência do povo negro e indígena, com destaque para a Bahia e a região Nordeste.
 
 O NEABI é um núcleo do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), presente em diversos campi da instituição. O NEABI do campus Brumado tem como objetivo contribuir para a formação crítica e a promoção da igualdade racial e social, valorizando a história, a cultura e as tradições dos povos afro-brasileiros e indígenas.
