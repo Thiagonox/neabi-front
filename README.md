@@ -9,7 +9,7 @@ O Projeto do NEABI foi desenvolvido utilizando as seguintes tecnologias:
 * Tailwind CSS
 * Axios
 
-Atualmente, a aplicação não possui autenticação de usuários e não está integrada ao backend.
+Atualmente, a aplicação não possui autenticação de usuários e não está integrada ao backend, no entanto o repositório para o Back-end da aplicação se encontra no perfil do Github de <a href="HTTPS://github.com/victorkayk">Victor Kayk</a> 
 
 ## Funcionalidades
 O Projeto do NEABI possui as seguintes funcionalidades:
