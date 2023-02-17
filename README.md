@@ -1,3 +1,6 @@
+![image-removebg-preview_certo](https://user-images.githubusercontent.com/71569140/219712967-c10951a1-a732-4b5f-b51d-89fe806bef61.png)
+
+
 # Frontend da plataforma NEABI - IFBA Campus Brumado (em desenvolvimento)
 O Projeto do Núcleo de Estudos Afro-brasileiros e Indígenas (NEABI) é uma plataforma educacional que tem como propósito fornecer um ambiente em que seja possível disponibilizar e compartilhar materiais de estudo, informações e reflexões sobre as pautas e temas relacionados à luta e à resistência do povo negro e indígena, com destaque para a Bahia e a região Nordeste.
 
