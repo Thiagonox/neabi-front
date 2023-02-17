@@ -9,6 +9,7 @@ O NEABI é um núcleo do Instituto Federal de Educação, Ciência e Tecnologia 
 O Projeto do NEABI foi desenvolvido utilizando as seguintes tecnologias:
 
 * React
+* Vite
 * Tailwind CSS
 * Axios
 
