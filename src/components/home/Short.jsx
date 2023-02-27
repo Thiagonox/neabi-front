@@ -11,7 +11,7 @@ import { Navigation } from "swiper"
 function Short() {
 
   return (
-    <div className='w-11/12 mt-8'>
+    <div className='w-11/12 mt-8 p-4'>
         <h2 className='font-Perandory text-6xl'>CORTES</h2>
         <Swiper navigation={true} modules={[Navigation]} loop={true} className="mb-12 mt-4 mySwiper"  breakpoints={{
           640: {
